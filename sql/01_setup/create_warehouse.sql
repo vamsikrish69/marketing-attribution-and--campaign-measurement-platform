@@ -1,1 +1,8 @@
+-- Create warehouse for marketing attribution project
 
+CREATE WAREHOUSE IF NOT EXISTS MARKETING_WH
+WITH
+    WAREHOUSE_SIZE = 'XSMALL'
+    AUTO_SUSPEND = 60
+    AUTO_RESUME = TRUE
+    INITIALLY_SUSPENDED = TRUE;
