@@ -10,4 +10,4 @@ FROM ANALYTICS.FCT_CAMPAIGN_MEASUREMENT
 ORDER BY LINEAR_ROAS DESC
 LIMIT 10;
 
----- Identify the highest-performing campaigns based on attributed ROAS.Show more lines------
+---- Identify the highest-performing campaigns based on attributed ROAS------
