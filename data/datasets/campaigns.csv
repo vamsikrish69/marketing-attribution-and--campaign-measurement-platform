@@ -1,0 +1,26 @@
+campaign_id,campaign_name,channel,campaign_start_date,campaign_end_date,campaign_objective,budget
+C001,Premier League Promo,meta,2026-01-21,2026-03-14,reactivation,4518
+C002,Casino Weekend Boost,google,2026-01-08,2026-03-08,acquisition,6508
+C003,Free Bet Friday,affiliate,2026-01-18,2026-03-09,acquisition,15864
+C004,Cheltenham Bonus,email,2026-01-01,2026-02-20,app_engagement,5476
+C005,New Player Welcome,app,2026-01-20,2026-03-07,app_engagement,15407
+C006,Accumulator Boost,meta,2026-01-14,2026-03-14,reactivation,11206
+C007,Live Casino Cashback,google,2026-01-01,2026-02-25,reactivation,20865
+C008,Weekend Reload,affiliate,2026-01-09,2026-03-04,reactivation,6960
+C009,Mobile App Offer,email,2026-01-04,2026-02-23,reactivation,10198
+C010,VIP Re-Engagement,app,2026-01-12,2026-03-31,acquisition,9152
+C011,Sportsbook Cashback,meta,2026-01-15,2026-03-31,deposit_growth,4992
+C012,Slots Tournament,google,2026-01-03,2026-03-24,app_engagement,9198
+C013,First Deposit Boost,affiliate,2026-01-12,2026-03-31,acquisition,6442
+C014,Horse Racing Special,email,2026-01-02,2026-03-30,reactivation,6583
+C015,Champions League Push,app,2026-01-03,2026-03-03,reactivation,3778
+C016,Retention Booster,meta,2026-01-15,2026-03-31,reactivation,7833
+C017,Email Winback Offer,google,2026-01-12,2026-03-11,acquisition,20546
+C018,Affiliate Acquisition Push,affiliate,2026-01-20,2026-03-31,retention,6093
+C019,In-App Bonus Reminder,email,2026-01-06,2026-03-21,app_engagement,10552
+C020,High Value Player Promo,app,2026-01-08,2026-03-31,acquisition,9226
+C021,Bet Builder Campaign,meta,2026-01-08,2026-02-24,reactivation,8321
+C022,Casino Loyalty Bonus,google,2026-01-03,2026-03-02,reactivation,16794
+C023,Football Season Promo,affiliate,2026-01-07,2026-03-31,deposit_growth,10810
+C024,Cross Sell Sports Casino,email,2026-01-05,2026-03-07,app_engagement,5505
+C025,Returning Player Reward,app,2026-01-18,2026-03-20,deposit_growth,21197
