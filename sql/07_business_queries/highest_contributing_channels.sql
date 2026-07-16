@@ -12,4 +12,4 @@ GROUP BY CHANNEL
 ORDER BY TOTAL_REVENUE DESC;
 
 
------ Find the channels contributing most revenue and conversions.Show more lines----
+----- Find the channels contributing most revenue and conversions----
