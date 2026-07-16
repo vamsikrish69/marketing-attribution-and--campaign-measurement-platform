@@ -17,4 +17,4 @@ ORDER BY
     TOTAL_ATTRIBUTED_REVENUE DESC;
 
 
----- Understand channel contribution under different attribution models.Show more lines ----
+---- Understand channel contribution under different attribution models
