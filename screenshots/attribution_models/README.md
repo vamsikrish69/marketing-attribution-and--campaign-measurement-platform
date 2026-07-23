@@ -1,33 +1,35 @@
 # Attribution Models
 
-This folder contains screenshots demonstrating the attribution logic implemented within the Marketing Attribution & Campaign Measurement Platform.
+This folder contains screenshots demonstrating the attribution methodologies implemented within the Marketing Attribution & Campaign Measurement Platform.
 
-## Included Attribution Models
+The project supports multiple attribution models that assign conversion credit across customer journeys in different ways.
+
+## Attribution Models Included
 
 ### First-Touch Attribution
 
-Assigns 100% conversion credit to the first touchpoint in the customer journey.
+Assigns 100% conversion credit to the first marketing touchpoint before conversion.
 
 ### Last-Touch Attribution
 
-Assigns 100% conversion credit to the final touchpoint before conversion.
+Assigns 100% conversion credit to the final marketing touchpoint before conversion.
 
 ### Linear Attribution
 
-Distributes conversion credit equally across all touchpoints in the customer journey.
+Distributes conversion credit equally across all touchpoints within the customer journey.
 
 ### Attribution Model Comparison
 
-Compares campaign performance under first-touch, last-touch, and linear attribution methodologies.
+Compares campaign and channel performance under first-touch, last-touch, and linear attribution methodologies.
 
 ## Business Value
 
-These attribution models help answer questions such as:
+These models help answer:
 
-- Which channels introduce customers?
-- Which channels close conversions?
-- Which campaigns contribute throughout the customer journey?
-- How does ROAS change under different attribution methodologies?
-- Which attribution model should guide budget allocation decisions?
+- Which campaigns introduce customers?
+- Which campaigns close conversions?
+- Which channels contribute across the journey?
+- How does attributed revenue change between models?
+- Which campaigns deserve increased budget allocation?
 
-The screenshots demonstrate the practical implementation of multi-touch marketing attribution using Snowflake SQL.
+The screenshots within this folder demonstrate the practical implementation of marketing attribution using Snowflake SQL.
